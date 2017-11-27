@@ -1,0 +1,19 @@
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.csproj.GenerateResource.Cache
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.Properties.Resources.resources
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.About.resources
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.FormMain.resources
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.exe.config
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.exe
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.pdb
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.exe
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.pdb
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.exe.config
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.exe
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.pdb
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.exe
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\bin\Debug\BootLoaderTMS570_Over_yomdem.pdb
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.csprojResolveAssemblyReference.cache
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.About.resources
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.FormMain.resources
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.Properties.Resources.resources
+L:\Git\Ti\BootLoaderTMS570LS1224\C# app\obj\Debug\BootLoaderTMS570_Over_yomdem.csproj.GenerateResource.Cache

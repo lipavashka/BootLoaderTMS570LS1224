@@ -1,0 +1,20 @@
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\bin\Debug\yomdem test.exe.config
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\bin\Debug\yomdem.exe.config
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\bin\Debug\yomdem.exe
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\bin\Debug\yomdem.pdb
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem_test.About.resources
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem_test.Form1.resources
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem_test.Properties.Resources.resources
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem test.csproj.GenerateResource.Cache
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem.exe
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem.pdb
+C:\2017 work\py_work\rs485-loader-py\yomdem C# app\yomdem C# app\obj\Debug\yomdem test.csprojResolveAssemblyReference.cache
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\yomdem.exe.config
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem.exe
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem.pdb
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\yomdem.exe
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\bin\Debug\yomdem.pdb
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem_test.About.resources
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem_test.Properties.Resources.resources
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem test.csproj.GenerateResource.Cache
+L:\Git\YModem\Example\c-sharp-ymodem\yomdem C# app\obj\Debug\yomdem_test.FormMain.resources
